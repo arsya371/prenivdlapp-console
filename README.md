@@ -18,12 +18,12 @@ A small, fast console tool to download media from popular platforms with automat
 
 ### Windows x64 (Intel/AMD)
 - **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-x64](https://github.com/arsya371/prenivdlapp-console/releases)
+- **Download**: [win-x64](https://prenivdl.vercel.app/)
 - **For**: Most Windows PCs
 
 ### Windows ARM64 (Qualcomm/Surface)
 - **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-arm64](https://github.com/arsya371/prenivdlapp-console/releases)
+- **Download**: [win-arm64](https://prenivdl.vercel.app/)
 - **For**: ARM-based Windows devices
 
 ## Installation
